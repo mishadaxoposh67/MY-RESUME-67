@@ -1,0 +1,15 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+li
+{
+color:orangered;
+}
+.contacts-container{
+background: sandybrown;
+}
+
+.tech-skills-container{
+background: seagreen;
+}
